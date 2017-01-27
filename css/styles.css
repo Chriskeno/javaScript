@@ -1,0 +1,23 @@
+body{font-family: 'Roboto', sans-serif;
+}
+h1 {font-size: 2em;
+    margin-bottom: 5%;
+}
+
+li {
+padding-bottom: .4em;
+margin-bottom: .9em;
+border-bottom: 1px solid;
+border-bottom-color: rgba(0,0,0,0.3)
+}
+
+button {height: 40px;
+width: 130px;
+background-color: steelblue;
+font-size: 1em;
+border: none;
+border-radius: 10px;
+color: ghostwhite;
+}
+
+li:active {background-color: beige;}
